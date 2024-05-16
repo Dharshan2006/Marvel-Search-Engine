@@ -1,5 +1,9 @@
 ### Marvel-Search-Engine
 
+## Output
+
+![input](https://dharshan2006.github.io/Marvel-Search-Engine/)
+
 ## Overview
 
 The Marvel Superhero Search Engine is a web application that allows users to search for information about Marvel superheroes using the Super Hero API and Marvel API. Users can search for superheroes by name, and upon selecting a superhero, they can view detailed information about the character along with a list of comics they appear in.
