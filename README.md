@@ -2,7 +2,7 @@
 
 ## Output
 
-[!input](https://dharshan2006.github.io/Marvel-Search-Engine/)
+![image](https://dharshan2006.github.io/Marvel-Search-Engine/)
 
 ## Overview
 
