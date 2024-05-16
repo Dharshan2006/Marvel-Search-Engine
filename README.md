@@ -28,11 +28,11 @@ The Marvel Superhero Search Engine is a web application that allows users to sea
 
 1. Clone the repository:
 
-      git clone https://github.com/your-username/marvel-superhero-search-engine.git
+       https://github.com/your-username/marvel-superhero-search-engine.git
 
 2. Navigate to the project directory:
 
-      cd marvel-superhero-search-engine
+       cd marvel-superhero-search-engine
 
 3. Open the index.html file in your web browser.
 
