@@ -2,7 +2,7 @@
 
 ## Output
 
-     https://dharshan2006.github.io/Marvel-Search-Engine/
+https://dharshan2006.github.io/Marvel-Search-Engine/
 
 ## Overview
 
