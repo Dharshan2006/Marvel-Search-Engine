@@ -6,45 +6,49 @@ The Marvel Superhero Search Engine is a web application that allows users to sea
 
 ## Features
 
--Superhero List: Display a list of superheroes on the home page.
+1. Superhero List: Display a list of superheroes on the home page.
 
--Search Bar: Allow users to search for superheroes by name.
+2. Search Bar: Allow users to search for superheroes by name.
 
--Superhero Details: Display detailed information about a selected superhero.
+3. Superhero Details: Display detailed information about a selected superhero.
 
--Comics List: Show a list of comics that the selected superhero appears in.
+4. Comics List: Show a list of comics that the selected superhero appears in.
 
 ## Technologies Used
 
--HTML, CSS, JavaScript: Frontend development.
+1. HTML, CSS, JavaScript: Frontend development.
 
--Super Hero API: For fetching superhero data.
+2. Super Hero API: For fetching superhero data.
 
--Marvel API: For fetching comic book data.
+3. Marvel API: For fetching comic book data.
 
--Any additional libraries or frameworks you may have used.
+4. Any additional libraries or frameworks you may have used.
 
 ## Setup
 
--Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/your-username/marvel-superhero-search-engine.git
+      git clone https://github.com/your-username/marvel-superhero-search-engine.git
 
--Navigate to the project directory:
+2. Navigate to the project directory:
 
-cd marvel-superhero-search-engine
+      cd marvel-superhero-search-engine
 
--Open the index.html file in your web browser.
+3. Open the index.html file in your web browser.
 
 ## Usage
 
--Upon loading the application, you will see a list of superheroes.
+1. Upon loading the application, you will see a list of superheroes.
 
--Use the search bar to filter superheroes by name.
+2. Use the search bar to filter superheroes by name.
 
--Click on a superhero to view detailed information about the character and a list of comics they appear in.
+3. Click on a superhero to view detailed information about the character and a list of comics they appear in.
 
--Press enter after typing the character name in the search bar to directly view details of a superhero.
+4. Press enter after typing the character name in the search bar to directly view details of a superhero.
+
+## Output
+
+
 
 ## License
 
