@@ -48,11 +48,16 @@ The Marvel Superhero Search Engine is a web application that allows users to sea
 
 ## Output
 
-1. ![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/f506532a-df3a-4377-b087-ccca49e85ba7)
-2. ![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/577b0823-e901-4843-8606-c566565274f4)
-3. ![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/010ec90b-eba0-463a-9055-4a5857d17aea)
-4. ![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/95fd00e7-8bba-4130-b0ed-cbfb1f1f2531)
-5. ![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/c468ca1f-a2be-4bd4-a193-3d4c4038f088)
+1.
+![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/f506532a-df3a-4377-b087-ccca49e85ba7)
+2.
+![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/577b0823-e901-4843-8606-c566565274f4)
+3.
+![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/010ec90b-eba0-463a-9055-4a5857d17aea)
+4.
+![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/95fd00e7-8bba-4130-b0ed-cbfb1f1f2531)
+5.
+![image](https://github.com/Dharshan2006/Marvel-Search-Engine/assets/170021990/c468ca1f-a2be-4bd4-a193-3d4c4038f088)
 
 ## License
 
